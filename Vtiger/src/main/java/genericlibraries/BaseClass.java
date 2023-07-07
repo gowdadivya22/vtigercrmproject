@@ -81,6 +81,7 @@ public class BaseClass
 	public void loggingOut(ITestResult result)
 	{
 		System.out.println("Logged out");
+		System.out.println("end");
 
 
 	}
