@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-06T15:30:17Z" name="Surefire suite" finished-at="2023-07-06T15:34:16Z" duration-ms="239445">
+    <groups>
+    </groups>
+    <test started-at="2023-07-06T15:30:17Z" name="Surefire test" finished-at="2023-07-06T15:34:16Z" duration-ms="239445">
+      <class name="TestCasesNew.TC_07_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_07_Test@6385cb26]" started-at="2023-07-06T15:33:47Z" name="launchingBrowser" finished-at="2023-07-06T15:33:49Z" duration-ms="1577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_07_Test@6385cb26]" started-at="2023-07-06T15:33:49Z" name="navigationToApplication" finished-at="2023-07-06T15:33:54Z" duration-ms="5124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="ceateEvenetTestcase()[pri:0, instance:TestCasesNew.TC_07_Test@6385cb26]" started-at="2023-07-06T15:33:54Z" name="ceateEvenetTestcase" finished-at="2023-07-06T15:34:11Z" duration-ms="17714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ceateEvenetTestcase -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_07_Test@6385cb26]" started-at="2023-07-06T15:34:11Z" name="loggingOut" finished-at="2023-07-06T15:34:11Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ceateEvenetTestcase status=SUCCESS method=TC_07_Test.ceateEvenetTestcase()[pri:0, instance:TestCasesNew.TC_07_Test@6385cb26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_07_Test@6385cb26]" started-at="2023-07-06T15:34:11Z" name="tearDownBrowser" finished-at="2023-07-06T15:34:16Z" duration-ms="5058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestCasesNew.TC_07_Test -->
+      <class name="TestCasesNew.TC_01_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_01_Test@3d3fcdb0]" started-at="2023-07-06T15:30:17Z" name="launchingBrowser" finished-at="2023-07-06T15:30:21Z" duration-ms="3245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_01_Test@3d3fcdb0]" started-at="2023-07-06T15:30:21Z" name="navigationToApplication" finished-at="2023-07-06T15:30:26Z" duration-ms="5281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="newOrganizationCreation()[pri:0, instance:TestCasesNew.TC_01_Test@3d3fcdb0]" started-at="2023-07-06T15:30:26Z" name="newOrganizationCreation" finished-at="2023-07-06T15:30:44Z" duration-ms="17964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newOrganizationCreation -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_01_Test@3d3fcdb0]" started-at="2023-07-06T15:30:44Z" name="loggingOut" finished-at="2023-07-06T15:30:44Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newOrganizationCreation status=SUCCESS method=TC_01_Test.newOrganizationCreation()[pri:0, instance:TestCasesNew.TC_01_Test@3d3fcdb0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_01_Test@3d3fcdb0]" started-at="2023-07-06T15:30:44Z" name="tearDownBrowser" finished-at="2023-07-06T15:30:49Z" duration-ms="5347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestCasesNew.TC_01_Test -->
+      <class name="TestCasesNew.TC_05_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_05_Test@27c6e487]" started-at="2023-07-06T15:32:15Z" name="launchingBrowser" finished-at="2023-07-06T15:32:17Z" duration-ms="1544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_05_Test@27c6e487]" started-at="2023-07-06T15:32:17Z" name="navigationToApplication" finished-at="2023-07-06T15:32:22Z" duration-ms="5410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="newLeadCreation()[pri:0, instance:TestCasesNew.TC_05_Test@27c6e487]" started-at="2023-07-06T15:32:22Z" name="newLeadCreation" finished-at="2023-07-06T15:32:36Z" duration-ms="13962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLeadCreation -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_05_Test@27c6e487]" started-at="2023-07-06T15:32:36Z" name="tearDownBrowser" finished-at="2023-07-06T15:32:41Z" duration-ms="4941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_05_Test@27c6e487]" started-at="2023-07-06T15:32:36Z" name="loggingOut" finished-at="2023-07-06T15:32:36Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newLeadCreation status=SUCCESS method=TC_05_Test.newLeadCreation()[pri:0, instance:TestCasesNew.TC_05_Test@27c6e487] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+      </class> <!-- TestCasesNew.TC_05_Test -->
+      <class name="TestCasesNew.TC_04_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_04_Test@64d7f7e0]" started-at="2023-07-06T15:31:43Z" name="launchingBrowser" finished-at="2023-07-06T15:31:45Z" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_04_Test@64d7f7e0]" started-at="2023-07-06T15:31:45Z" name="navigationToApplication" finished-at="2023-07-06T15:31:50Z" duration-ms="4864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="newContactCreationWithExistingOrganization()[pri:0, instance:TestCasesNew.TC_04_Test@64d7f7e0]" started-at="2023-07-06T15:31:50Z" name="newContactCreationWithExistingOrganization" finished-at="2023-07-06T15:32:10Z" duration-ms="19946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newContactCreationWithExistingOrganization -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_04_Test@64d7f7e0]" started-at="2023-07-06T15:32:10Z" name="loggingOut" finished-at="2023-07-06T15:32:10Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newContactCreationWithExistingOrganization status=SUCCESS method=TC_04_Test.newContactCreationWithExistingOrganization()[pri:0, instance:TestCasesNew.TC_04_Test@64d7f7e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_04_Test@64d7f7e0]" started-at="2023-07-06T15:32:10Z" name="tearDownBrowser" finished-at="2023-07-06T15:32:15Z" duration-ms="5501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestCasesNew.TC_04_Test -->
+      <class name="TestCasesNew.TC_03_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_03_Test@6e38921c]" started-at="2023-07-06T15:31:17Z" name="launchingBrowser" finished-at="2023-07-06T15:31:19Z" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_03_Test@6e38921c]" started-at="2023-07-06T15:31:19Z" name="navigationToApplication" finished-at="2023-07-06T15:31:24Z" duration-ms="5094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="newContactCreation()[pri:0, instance:TestCasesNew.TC_03_Test@6e38921c]" started-at="2023-07-06T15:31:24Z" name="newContactCreation" finished-at="2023-07-06T15:31:38Z" duration-ms="14590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newContactCreation -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_03_Test@6e38921c]" started-at="2023-07-06T15:31:38Z" name="loggingOut" finished-at="2023-07-06T15:31:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newContactCreation status=SUCCESS method=TC_03_Test.newContactCreation()[pri:0, instance:TestCasesNew.TC_03_Test@6e38921c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_03_Test@6e38921c]" started-at="2023-07-06T15:31:38Z" name="tearDownBrowser" finished-at="2023-07-06T15:31:43Z" duration-ms="5217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestCasesNew.TC_03_Test -->
+      <class name="TestCasesNew.TC_06_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_06_Test@49070868]" started-at="2023-07-06T15:32:41Z" name="launchingBrowser" finished-at="2023-07-06T15:32:43Z" duration-ms="1730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_06_Test@49070868]" started-at="2023-07-06T15:32:43Z" name="navigationToApplication" finished-at="2023-07-06T15:32:48Z" duration-ms="4997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="newLeadCreationAndDuplicationAndDeletion()[pri:0, instance:TestCasesNew.TC_06_Test@49070868]" started-at="2023-07-06T15:32:48Z" name="newLeadCreationAndDuplicationAndDeletion" finished-at="2023-07-06T15:33:42Z" duration-ms="53838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLeadCreationAndDuplicationAndDeletion -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_06_Test@49070868]" started-at="2023-07-06T15:33:42Z" name="loggingOut" finished-at="2023-07-06T15:33:42Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newLeadCreationAndDuplicationAndDeletion status=SUCCESS method=TC_06_Test.newLeadCreationAndDuplicationAndDeletion()[pri:0, instance:TestCasesNew.TC_06_Test@49070868] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_06_Test@49070868]" started-at="2023-07-06T15:33:42Z" name="tearDownBrowser" finished-at="2023-07-06T15:33:47Z" duration-ms="5332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestCasesNew.TC_06_Test -->
+      <class name="TestCasesNew.TC_02_Test">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:TestCasesNew.TC_02_Test@641147d0]" started-at="2023-07-06T15:30:49Z" name="launchingBrowser" finished-at="2023-07-06T15:30:51Z" duration-ms="1536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="navigationToApplication()[pri:0, instance:TestCasesNew.TC_02_Test@641147d0]" started-at="2023-07-06T15:30:51Z" name="navigationToApplication" finished-at="2023-07-06T15:30:56Z" duration-ms="4952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToApplication -->
+        <test-method signature="newOrganizationCreationwithIndustryAndType()[pri:0, instance:TestCasesNew.TC_02_Test@641147d0]" started-at="2023-07-06T15:30:56Z" name="newOrganizationCreationwithIndustryAndType" finished-at="2023-07-06T15:31:12Z" duration-ms="15977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newOrganizationCreationwithIndustryAndType -->
+        <test-method is-config="true" signature="loggingOut(org.testng.ITestResult)[pri:0, instance:TestCasesNew.TC_02_Test@641147d0]" started-at="2023-07-06T15:31:12Z" name="loggingOut" finished-at="2023-07-06T15:31:12Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newOrganizationCreationwithIndustryAndType status=SUCCESS method=TC_02_Test.newOrganizationCreationwithIndustryAndType()[pri:0, instance:TestCasesNew.TC_02_Test@641147d0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingOut -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestCasesNew.TC_02_Test@641147d0]" started-at="2023-07-06T15:31:12Z" name="tearDownBrowser" finished-at="2023-07-06T15:31:17Z" duration-ms="5306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestCasesNew.TC_02_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
